@@ -1,2 +1,2 @@
 # hello-world
-new to coding, aspiring Makersquare student
+MKS ATX 47
